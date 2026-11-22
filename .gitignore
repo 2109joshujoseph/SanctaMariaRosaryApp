@@ -1,0 +1,19 @@
+# Build and intermediate outputs
+build/
+bin/
+gen/
+*.class
+
+# Toolchain downloads & SDK binaries
+.toolchain/
+
+# Logs & Crash Dumps
+*.log
+hs_err_pid*
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

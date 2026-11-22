@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ivory">#FBF7EE</color>
+    <color name="marian_blue">#1B3A6B</color>
+    <color name="marian_blue_mid">#2C5C9E</color>
+    <color name="marian_blue_light">#DCE7F6</color>
+    <color name="gold">#C9A227</color>
+    <color name="gold_light">#E8C96A</color>
+    <color name="ink">#22304A</color>
+    <color name="muted">#6E7A8F</color>
+    <color name="white">#FFFFFF</color>
+</resources>
